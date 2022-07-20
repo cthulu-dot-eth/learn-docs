@@ -43,7 +43,6 @@
   * [How to Delegate votes](ens-governance-faq/delegation-and-voting/how-to-delegate-votes.md)
   * [On- & Off-chain voting](ens-governance-faq/delegation-and-voting/on-and-off-chain-voting.md)
 * [The ENS Governance token](ens-governance-faq/the-ens-governance-token/README.md)
-  * [Can I stake my ENS?](ens-governance-faq/the-ens-governance-token/can-i-stake-my-ens.md)
   * [Can I buy or swap ENS?](ens-governance-faq/the-ens-governance-token/can-i-buy-or-swap-ens.md)
   * [Can I transfer ENS to another wallet and still vote?](ens-governance-faq/the-ens-governance-token/can-i-transfer-ens-to-another-wallet-and-still-vote.md)
 
