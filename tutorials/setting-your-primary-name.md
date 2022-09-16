@@ -7,12 +7,12 @@ The easiest way to understand it is to consider that name resolution works in tw
 ### Forward resolution
 
 * **Your ENS name ➞ Your wallet address,** or for a practical example:\
-  **cthulu.eth ➞ 0xa19A7ae868eDe64C6C5256A64BCD3bf3a9F2d615**\
+  **cthulu.eth ➞ 0x4b131a5b4c42cb703f360377beb262262821ca66**\
   ****_Determined by the ETH Address (forward) record set on your domain._
 
 ### Reverse resolution
 
-* **Your wallet address ➞ Your ENS name,** or for a practical example: **0xa19A7ae868eDe64C6C5256A64BCD3bf3a9F2d615 ➞ cthulu.eth**\
+* **Your wallet address ➞ Your ENS name,** or for a practical example: **0x4b131a5b4c42cb703f360377beb262262821ca66 ➞ cthulu.eth**\
   ****_Determined by the Primary (reverse) record set in your wallet._
 
 In order to set an ENS name as Primary in a wallet, it's therefore a requirement that the ENS name first resolves to that wallet address.
